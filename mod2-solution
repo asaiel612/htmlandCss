@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+
+<html>
+       <head>
+        
+             <style>
+
+                              
+                  *
+                  {
+                  font-family: Arial, Helvetica, sans-serif;
+                  }
+
+
+                  .chicken
+                  {
+                  background-color:#989999;
+                  width: 200px;
+                  height: 150px;
+                  border: black solid 1px;
+                  float: left;
+                  margin: 10px;
+                  
+                  
+                  
+                  
+                  }
+
+
+
+                  .beef
+                  {
+                  background-color:#989999;
+                  width: 200px;
+                  height: 150px;
+                  border: black solid 1px;
+                  float: left;
+                  margin: 10px;
+                  
+                  
+                  }
+                  .sushi
+                  {
+                  background-color:#989999;
+                  width: 200px;
+                  height: 150px;
+                  border: black solid 1px;
+                  float: left;
+                  margin: 10px;
+                  
+                  
+                  
+                  }
+
+
+                  p{
+                  margin: 35px auto;
+                  }
+
+
+                  .chick
+                  {
+                  background-color:#D59898;
+                  width: 80px;
+                  height: 15px;
+                  border-left: black solid 1px;
+                  border-bottom: black solid 1px;
+                  float: right;
+                  text-align: center;
+                  color: black;
+                  padding: 5px;
+                  
+                  
+                  
+                  }
+                  .bee
+                  {
+                  background-color: #C14543;
+                  width: 80px;
+                  height: 15px;
+                  border-left: black solid 1px;
+                  border-bottom: black solid 1px;
+                  float: right;
+                  text-align: center;
+                  color: white;
+                  padding: 5px;
+                  
+                  
+                  }
+
+
+                  .su
+                  {
+                  background-color: #E5D198;
+                  width: 80px;
+                  height: 15px;
+                  border-left: black solid 1px;
+                  border-bottom: black solid 1px;
+                  float: right;
+                  text-align: center;
+                  color: black;
+                  padding: 5px;
+                  
+                  
+                  }
+
+
+
+             </style>
+
+       </head>
+        
+             <body>
+
+<div class="chicken"><div class="chick">chicken</div> <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
+ </div>
+<div class="beef"> <div class="bee">beef</div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p></div>
+<div class="sushi"> <div class="su">sushi</div><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p></div>
+
+
+             </body>
+
+
+
+
+
+</html>
